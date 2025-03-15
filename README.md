@@ -12,4 +12,4 @@ This project implements **cloth simulation** using particles, springs, and colli
 
 
 ## demo
-![Demo](./assets/demo.gif.gif)
+![Demo](./assets/demo.gif)
